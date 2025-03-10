@@ -1,1 +1,5 @@
-init
+- Prerequisite:
+- az login
+- find the region closet to recent location
+- get list of available regions in the subscription
+- see pricing model
